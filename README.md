@@ -8,7 +8,7 @@ cell, spike times in sequential list;
 odors, matrix of odor onset times for up to 14 stimuli;
 RESP_PKS, peaks of ongoing respiration cycles, if recorded along with the cell;
 sessduration, duration of recording session.
-All data reported in seconds.
+All data are reported in seconds.
 
 Notes on matlab code:
 
