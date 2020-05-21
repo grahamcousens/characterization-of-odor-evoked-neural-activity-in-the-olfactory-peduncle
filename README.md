@@ -13,8 +13,8 @@ All data reported in seconds.
 Notes on matlab code:
 
 Matlab code branches from "run.m", and the data directory must be set in Line 4. 
-Analysis windows referenced to odor onset and analysis bin size are specified in Line 8. Default selects an 8 sec interval centered on odor onset with a 4 sec bin size.
-Cell selection is specified in Line 14. Default selects all cells. 
-create_spontaneous returns mean interspike intervals and coefficients of variation. 
+Analysis windows referenced to odor onset and analysis bin size are specified in Line 8 - default selects an 8 sec interval centered on odor onset with a 4 sec bin size.
+Cell selection is specified in Line 14 - default selects all cells. 
+create_spontaneous returns mean interspike intervals and coefficients of variation for selected cells. 
 create_psth returns binned raw spike counts.
 create_phases returns the distribution of binned spikes relative to respiration phase, along with population vector for each cell.
