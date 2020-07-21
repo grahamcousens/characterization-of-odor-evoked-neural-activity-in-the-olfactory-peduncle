@@ -1,4 +1,3 @@
-# medial-olfactory-cortex
 This repository contains single-unit neural activity recorded from the tenia tecta and anterior olfactory neucleus in the anesthetized mouse. Please see the manuscript for details on experimental design (to be updated once published).
 
 Notes on data:
